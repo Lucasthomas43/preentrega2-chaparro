@@ -1,0 +1,25 @@
+{
+    "Productos": [
+            { "ID_producto": 1,
+              "Nombre_producto": "Notebook",
+              "Precio": 150.000,
+              "Tienda": "Jumbo"
+            },
+            { "ID_producto": 2,
+              "Nombre_producto": "Heladera",
+              "Precio": 300.000,
+              "Tienda": "Walmart"
+            },
+            { "ID_producto": 3,
+              "Nombre_producto": "Television",
+              "Precio": 130.000,
+              "Tienda": "Carrefour"
+            },
+            { "ID_producto": 4,
+              "Nombre_producto": "Lavarropas",
+              "Precio": 200.000,
+              "Tienda": "Fravega"
+            }
+
+    ]
+}
